@@ -88,7 +88,7 @@ https://www.kaggle.com/datasets/miadul/lifestyle-and-health-risk-prediction/data
 
 ## 👩‍💻 Author
 Kalaiselvi G  
-Solution Architect | Data Science Learner
+Data Science Learner
 
 ---
 
