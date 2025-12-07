@@ -77,12 +77,6 @@ https://www.kaggle.com/datasets/miadul/lifestyle-and-health-risk-prediction/data
 - Feature importance analysis  
 - Interpretation of results  
 
----
-
-## 🚀 Next Steps
-- Try alternative models (Random Forest, XGBoost)
-- Apply class-weighting to improve low-risk recall
-- Include ROC-AUC and cross-validation
 
 ---
 
